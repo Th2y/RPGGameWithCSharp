@@ -1,0 +1,14 @@
+D:\Cursos\DIO\Projetos\RPGGameWithCSharp\bin\Debug\net8.0\RPGGameWithCSharp.exe
+D:\Cursos\DIO\Projetos\RPGGameWithCSharp\bin\Debug\net8.0\RPGGameWithCSharp.deps.json
+D:\Cursos\DIO\Projetos\RPGGameWithCSharp\bin\Debug\net8.0\RPGGameWithCSharp.runtimeconfig.json
+D:\Cursos\DIO\Projetos\RPGGameWithCSharp\bin\Debug\net8.0\RPGGameWithCSharp.dll
+D:\Cursos\DIO\Projetos\RPGGameWithCSharp\bin\Debug\net8.0\RPGGameWithCSharp.pdb
+D:\Cursos\DIO\Projetos\RPGGameWithCSharp\obj\Debug\net8.0\RPGGameWithCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\DIO\Projetos\RPGGameWithCSharp\obj\Debug\net8.0\RPGGameWithCSharp.AssemblyInfoInputs.cache
+D:\Cursos\DIO\Projetos\RPGGameWithCSharp\obj\Debug\net8.0\RPGGameWithCSharp.AssemblyInfo.cs
+D:\Cursos\DIO\Projetos\RPGGameWithCSharp\obj\Debug\net8.0\RPGGameWithCSharp.csproj.CoreCompileInputs.cache
+D:\Cursos\DIO\Projetos\RPGGameWithCSharp\obj\Debug\net8.0\RPGGameWithCSharp.dll
+D:\Cursos\DIO\Projetos\RPGGameWithCSharp\obj\Debug\net8.0\refint\RPGGameWithCSharp.dll
+D:\Cursos\DIO\Projetos\RPGGameWithCSharp\obj\Debug\net8.0\RPGGameWithCSharp.pdb
+D:\Cursos\DIO\Projetos\RPGGameWithCSharp\obj\Debug\net8.0\RPGGameWithCSharp.genruntimeconfig.cache
+D:\Cursos\DIO\Projetos\RPGGameWithCSharp\obj\Debug\net8.0\ref\RPGGameWithCSharp.dll
